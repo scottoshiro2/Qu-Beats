@@ -1,4 +1,4 @@
-# Qu-Beats
+# Qu-Beats (Original repository: https://github.com/omarcostahamido/Qu-Beats)
 __by [Scott Oshiro](https://github.com/scottoshiro2), [Tshepang Motsosi](https://github.com/Mabonito)__
 
 _Generating beats with quantum circuits_
